@@ -1,3 +1,8 @@
+// Problem: Palindrome Number
+// Platform: LeetCode
+// Difficulty: Easy
+// Approach: Reverse the integer and compare with original
+// Note: Negative numbers are not palindromes
 #include <iostream>
 #include <climits>
 using namespace std;
