@@ -27,7 +27,7 @@ Problems solved:
 
 * Find largest element in an array
 * Find second largest element
-* Reverse an array
+* Reverse array
 * Linear search
 * Count occurrences of a number
 
@@ -39,9 +39,21 @@ Concepts practiced:
 * Pointer arithmetic
 * Arrays and pointers relationship
 
-Problems solved:
+Problem solved:
 
 * Move all zeros in an array to the end
+
+### Day 8 — Two Pointer Technique
+
+Concepts practiced:
+
+* Two pointer approach
+* Swapping elements
+* Reversing arrays efficiently
+
+Problem solved:
+
+* Reverse an array using two pointers
 
 ## Repository Structure
 
