@@ -4,10 +4,10 @@ This repository contains my daily C++ practice while learning Data Structures an
 
 ## Goals
 
-- Build strong C++ fundamentals
-- Improve problem solving skills
-- Practice Data Structures & Algorithms
-- Prepare for technical internships
+* Build strong C++ fundamentals
+* Improve problem-solving skills
+* Practice Data Structures & Algorithms
+* Prepare for technical internships
 
 ## Progress
 
@@ -15,70 +15,79 @@ This repository contains my daily C++ practice while learning Data Structures an
 
 Concepts covered:
 
-- Variables
-- Data types
-- Conditionals
-- Loops
-- Functions
+* Variables
+* Data types
+* Input / Output
+* Conditionals
+* Loops
+
+---
 
 ### Day 5–6 — Arrays
 
 Problems solved:
 
-- Find largest element in an array
-- Find second largest element
-- Reverse array
-- Linear search
-- Count occurrences of a number
-
 * Find largest element in an array
 * Find second largest element
-* Reverse array
+* Reverse an array
 * Linear search
 * Count occurrences of a number
-  1594ce1 (Updated README for Day8)
+
+---
 
 ### Day 7 — Pointers & Arrays
 
 Concepts practiced:
 
-- Pointer basics (`*` and `&`)
-- Pointer arithmetic
-- Arrays and pointers relationship
+* Pointer basics (`*` and `&`)
+* Pointer arithmetic
+* Relationship between arrays and pointers
 
 Problem solved:
 
-- Move all zeros in an array to the end
+* Move all zeros in an array to the end
+
+---
 
 ### Day 8 — Two Pointer Technique
 
 Concepts practiced:
 
-- Two pointer approach
-- Swapping elements
-- Reversing arrays efficiently
+* Two pointer approach
+* Swapping elements
+* Reversing arrays efficiently
 
 Problem solved:
 
-- Reverse an array using two pointers
+* Reverse an array using two pointers
 
-### Day 8 — Two Pointer Technique
+---
+
+### Day 9 — Functions
 
 Concepts practiced:
 
-- Two pointer approach
-- Swapping elements
-- Reversing arrays efficiently
+* Creating functions
+* Passing parameters to functions
+* Returning values from functions
+* Using loops and conditions inside functions
 
-Problem solved:
+Programs implemented:
 
-- Reverse an array using two pointers
+* Add two numbers using a function
+* Find the largest of two numbers
+* Calculate factorial using a function
+
+---
 
 ## Repository Structure
 
+```
 fundamentals/
 arrays/
+functions/
 leetcode/
+```
 
 ## Language
 
