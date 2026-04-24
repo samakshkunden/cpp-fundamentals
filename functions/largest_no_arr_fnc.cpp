@@ -3,7 +3,7 @@ using namespace std;
 int large(int arr[5])
 {
     int i = 0;
-    int a = 0;
+    int a;
     for (i = 0; i < 5; i++)
     {
         if (arr[i] > a)
